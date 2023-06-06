@@ -1,0 +1,10 @@
+C:\Users\berke\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\231.8109.174\bin\cmake\win\x64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/Users/berke/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.8109.174/bin/ninja/win/x64/ninja.exe -G Ninja -S "C:\Users\berke\Desktop\Berke\METU\CNG\3\CNG 315\Projects\Assignment 4" -B "C:\Users\berke\Desktop\Berke\METU\CNG\3\CNG 315\Projects\Assignment 4\cmake-build-debug"
+-- The C compiler identification is GNU 7.2.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: C:/Program Files/Haskell Platform/8.6.5/mingw/bin/cc.exe - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/berke/Desktop/Berke/METU/CNG/3/CNG 315/Projects/Assignment 4/cmake-build-debug
